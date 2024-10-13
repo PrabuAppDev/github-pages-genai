@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Awesome Site
+# Welcome to my journal for Gen AI learning
 
 This is the homepage.
