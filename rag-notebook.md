@@ -1,8 +1,8 @@
 ---
 layout: default
-title: rag-tutorial-local
+title: rag-notebook
 ---
 
-# Tutorials on RAG
+# My RAG notebook
 
 Details on RAG experiments..
