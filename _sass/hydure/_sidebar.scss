@@ -21,7 +21,7 @@
 }
 
 .brand-title {
-  font-family: var(--brand-title-font);
+  font-family: var(--heading-fon); //--brand-title-font
   font-size: 3em;
   font-weight: bold;
   line-height: 1.2;
@@ -76,6 +76,7 @@
 
   .nav-item a {
     padding-left: 0;
+    font-family: var(--heading-font);  /* Or --body-font */
   }
 
   .social-item {
