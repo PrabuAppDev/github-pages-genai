@@ -10,4 +10,4 @@ Details on RAG experiments.
 <a href="https://github.com/PrabuAppDev/genai-rag/blob/main/rag-101.md" target="_blank">View the latest RAG tutorial on GitHub</a>
 
 <!-- Include the local copy of rag-101.md -->
-{% include rag-101.md %}
+{% include_relative assets/rag-101.md %}
