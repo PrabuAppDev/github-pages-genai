@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAG-tutorial
+title: RAG-tutorial-local
 ---
 
 # Tutorials on RAG
