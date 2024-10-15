@@ -5,7 +5,7 @@ title: rag-notebook
 
 # RAG Tutorials
 
-<a href="https://github.com/PrabuAppDev/genai-rag/blob/main/rag-openai.md" target="_blank">View the latest RAG tutorial (Open AI API) on GitHub</a>
+<a href="https://github.com/PrabuAppDev/genai-rag/blob/main/rag-openai.md" target="_blank">View the latest RAG tutorial (Open AI LLM API) on GitHub</a>
 Compare that for accuracy with a local LLM (scroll further down)
 
 ```python
