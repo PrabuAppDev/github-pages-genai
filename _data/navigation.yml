@@ -9,3 +9,6 @@
 
 - title: Vector DB (Pinecone)
   url: /vector-db
+
+- title: Agentic (Llama Index)
+  url: /agentic-llama-index  

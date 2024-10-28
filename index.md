@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to my journal for Gen AI learning
+# Welcome to my journal of Gen AI learning
 
-This is the homepage..
+Cookbooks and tutorials on key topics.
