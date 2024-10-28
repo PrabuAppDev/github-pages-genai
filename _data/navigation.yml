@@ -6,3 +6,6 @@
 
 - title: Prompt engineering
   url: /prompt-shots
+
+- title: Vector DB (Pinecone)
+  url: /vector-db
