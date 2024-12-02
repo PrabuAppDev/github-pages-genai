@@ -1,5 +1,6 @@
+---
 layout: default  
-title: vector-db  
+title: graph-natural-language-query 
 ---
 
 # Graph visualization based on natural language/LLM interface

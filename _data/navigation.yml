@@ -15,3 +15,6 @@
 
 - title: Graph visualization
   url: /graph-natural-language-query  
+
+- title: AWS Bedrock Agentic-return of control
+  url: /aws-bedrock-agent-return-of-control
