@@ -21,3 +21,6 @@
 
 - title: Crew AI multiple agents
   url: /crew-ai-multi-agents
+  
+- title: Evaluation using RAGAs
+  url: /evals-ragas
