@@ -16,5 +16,8 @@
 - title: Graph visualization
   url: /graph-natural-language-query  
 
-- title: AWS Bedrock Agentic-return of control
+- title: AWS Bedrock Agents
   url: /aws-bedrock-agent-return-of-control
+
+- title: Crew AI multiple agents
+  url: /crew-ai-multi-agents
