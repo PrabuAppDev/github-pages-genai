@@ -15,3 +15,8 @@ title: model-context-protocolo
 <a href="https://github.com/PrabuAppDev/model-context-protocol-intro" target="_blank">MCP Git repo</a>
 
 ![MCP Docker Container](/assets/images/mcp-docker-container.jpg)
+
+
+![MCP Architecture Introduction](/assets/images/mcp-intro.jpg)
+
+<a href="https://modelcontextprotocol.io/introduction" target="_blank">Image credit: https://modelcontextprotocol.io/introduction</a>
