@@ -24,3 +24,7 @@
   
 - title: Evaluation using RAGAs
   url: /evals-ragas
+    
+- title: Model Context Protocol (MCP)
+  url: /mcp
+
