@@ -7,11 +7,11 @@
 - title: Prompt engineering
   url: /prompt-shots
 
-- title: Vector DB (Pinecone)
-  url: /vector-db
+# - title: Vector DB (Pinecone)
+#   url: /vector-db
 
-- title: Agentic (Llama Index)
-  url: /agentic-llama-index  
+# - title: Agentic (Llama Index)
+#   url: /agentic-llama-index  
 
 - title: Graph visualization
   url: /graph-natural-language-query  
@@ -27,4 +27,7 @@
     
 - title: Model Context Protocol (MCP)
   url: /mcp
+    
+- title: Vertex/GCP and Agentic CrewAI
+  url: /vertex
 
