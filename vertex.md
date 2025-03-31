@@ -5,35 +5,7 @@ title: Vertex+GCP based Crew AI
 
 ### Vertex AI - Vector Search/Index and Crew orchestration using Gemini LLMs
 
-```mermaid
-flowchart TD
-    A[User uploads PDF manual] --> B[Chunk + Embed PDF content]
-    B --> C[Upload embeddings to Vertex AI Vector Index]
-    C --> D[Create public Index Endpoint]
-
-    subgraph Vertex AI
-        C
-        D
-    end
-
-    E[User asks a question about the Acura MDX] --> F[Query Vertex AI Matching Engine]
-    F --> G[Retrieve relevant chunks]
-
-    G --> H[Gemini LLM generates response]
-    H --> I[Show Answer to User]
-
-    %% Crew AI Integration
-    subgraph Crew AI Agents
-        J[Weather Agent - Winter]
-        K[Manual Review Agent]
-        L[Recommendation Agent]
-    end
-
-    J --> M[Inject seasonal context]
-    G --> K
-    K --> L
-    L --> H
-```
+![Mermaid diagram](/assets/images/mermaid-diagram-vertex.JPG)
 
 ## 🔗 GitHub Repository
 
